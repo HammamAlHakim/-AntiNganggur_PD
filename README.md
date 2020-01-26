@@ -1,7 +1,21 @@
 # -AntiNganggur_PD
-Web Design by Tim PD (UBM Web Design Competition 2019)
 
-![alt text](https://github.com/HammamAlHakim/-AntiNganggur_PD/blob/master/Index.png)
-![alt text](https://github.com/HammamAlHakim/-AntiNganggur_PD/blob/master/Tips%20and%20Trik.png)
-![alt text](https://github.com/HammamAlHakim/-AntiNganggur_PD/blob/master/Tes%20Keahlian.png)
-![alt text](https://github.com/HammamAlHakim/-AntiNganggur_PD/blob/master/Lowongan%20Pekerjaan.png)
+### About Event
+
+Event Name : Techno Art 2019
+
+Event Location : Bunda Mulia University Jakarta, Indonesia
+
+Event Type : Web Design
+
+Achievement : 2nd Runner Up
+
+### About Team
+
+Team name : Tim PD
+
+Teammate :
+
+1. Dimas Angkasa Nurindra
+2. Hammam Al-Hakim
+3. Maulana Hilmi Arkan
